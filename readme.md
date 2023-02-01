@@ -5,8 +5,3 @@ Teknologi :
 - MySQL/MariaDB !
 
 
-User Login
-1. Admin Account
-	- Username : Admin
-	- password : -
-
